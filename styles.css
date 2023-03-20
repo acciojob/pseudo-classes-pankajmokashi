@@ -2,3 +2,9 @@
 li{
 	padding: 10px;
 }
+p:first-child{
+	color: white;
+}
+p:last-child{
+	color: red;
+}
